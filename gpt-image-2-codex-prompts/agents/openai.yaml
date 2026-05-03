@@ -1,0 +1,3 @@
+interface:
+  display_name: "GPT Image 2 Codex Prompts"
+  short_description: "Codex-only GPT Image 2 prompt generator and checker"
